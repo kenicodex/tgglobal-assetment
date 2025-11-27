@@ -11,19 +11,69 @@ const tintColorDark = '#fff';
 export const Colors = {
   light: {
     text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
+    background: '#FFFFFF',
+    bgGray: '#F2F5F8',
+    info: '#009AFF',
+
+    // Primary Variant
+    primary: '#20BEB8',
+    primaryText: '#FFFFFF',
+
+
+    // Secondary Variant
+    secondary: '#F2F5F8',
+    secondaryText: '#11181C',
+
+    // Danger Variant
+    danger: '#DC3545',
+    dangerText: '#FFFFFF',
+
+    // Neutral Variant
+    neutral: '#E5E5E5',
+    neutralText: '#11181C',
+
+    // UI Icons
     icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+
+    // Tabs
+    tabIconDefault: '#94A3B8',
+    tabIconSelected: '#20BEB8',
+
+    // Tint
+    tint: tintColorLight,
   },
+
   dark: {
     text: '#ECEDEE',
     background: '#151718',
-    tint: tintColorDark,
+    bgGray: '#282828ff',
+    info: '#009AFF',
+
+    // Primary Variant
+    primary: '#20BEB8',
+    primaryText: '#FFFFFF',
+
+    // Secondary Variant
+    secondary: '#2A2D30',
+    secondaryText: '#ECEDEE',
+
+    // Danger Variant
+    danger: '#FF6B6B',
+    dangerText: '#FFFFFF',
+
+    // Neutral Variant
+    neutral: '#3A3A3A',
+    neutralText: '#ECEDEE',
+
+    // UI Icons
     icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
+
+    // Tabs
+    tabIconDefault: '#94A3B8',
+    tabIconSelected: '#20BEB8',
+
+    // Tint
+    tint: tintColorDark,
   },
 };
 
