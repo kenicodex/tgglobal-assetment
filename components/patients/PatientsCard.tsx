@@ -110,7 +110,7 @@ export default function PatientsCard({
             phone="0123456789"
             upcomingDate="27-11-2024"
             onViewProfile={() => {
-              throw new Error("Failed to load patient profile");
+              console.log("Failed to load patient profile");
             }}
           />
         </View>
