@@ -207,6 +207,9 @@ npm run lint             # lint
 <img width="500" height="1240" alt="IMG_4710" src="https://github.com/user-attachments/assets/58a32b6f-10ab-4911-9ecd-d9531c255527" /> <img width="500" height="1240" alt="IMG_4711" src="https://github.com/user-attachments/assets/68f90270-a7bd-4075-9975-d2565301dbb7" />
 <img width="500" height="1240" alt="IMG_4718" src="https://github.com/user-attachments/assets/77216d79-2f38-481f-86cf-0f0a712ac012" /> <img width="500" height="1240" alt="IMG_4719" src="https://github.com/user-attachments/assets/b1005f5a-7475-4eaa-ad72-27cd450e8132" /> <img width="500" height="1240" alt="IMG_4720" src="https://github.com/user-attachments/assets/fa5d53eb-6739-4bdc-b0f7-7136422dfa4e" /> <img width="500" height="1240" alt="IMG_4712" src="https://github.com/user-attachments/assets/4edb3564-8875-4a0b-9c2d-18db677dbff5" />
 <img width="500" height="1240" alt="IMG_4716" src="https://github.com/user-attachments/assets/fcf60a60-f09d-4d2c-9f42-6bf0b9977790" /> <img width="500" height="1240" alt="IMG_4715" src="https://github.com/user-attachments/assets/7ed2b402-aa66-4437-9fcc-4172afc52a8e" /> 
+<img width="1170" height="2532" alt="IMG_4709" src="https://github.com/user-attachments/assets/cba4eb59-a10a-4714-9e0c-20a63bf31bd4" /> <img width="1170" height="2532" alt="IMG_4721" src="https://github.com/user-attachments/assets/c8fb37e5-d1ab-48ae-95e2-4af6c4744564" />
+
+
 
 
 
